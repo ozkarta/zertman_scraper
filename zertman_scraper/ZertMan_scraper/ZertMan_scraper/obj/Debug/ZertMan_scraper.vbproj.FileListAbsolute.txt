@@ -1,0 +1,11 @@
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\bin\Debug\ZertMan_scraper.exe.config
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\bin\Debug\ZertMan_scraper.exe
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\bin\Debug\ZertMan_scraper.pdb
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\bin\Debug\ZertMan_scraper.xml
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.vbprojResolveAssemblyReference.cache
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.Resources.resources
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.vbproj.GenerateResource.Cache
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.exe
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.xml
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.pdb
+c:\users\ozkart-win-7\documents\visual studio 2015\Projects\ZertMan_scraper\ZertMan_scraper\obj\Debug\ZertMan_scraper.mainForm.resources
